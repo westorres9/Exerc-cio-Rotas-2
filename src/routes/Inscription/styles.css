@@ -1,0 +1,19 @@
+.inscription-container {
+    background: var(--bg-gray-light);
+    height: 738px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.inscription-container h2 {
+    color: var(--color-font-gray);
+    margin: 38px auto 47px;
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+
+.home-card {
+    text-align: left;
+}
